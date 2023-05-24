@@ -1,6 +1,6 @@
 *** Settings ***
 Library    SeleniumLibrary
-Library    FakerLibrary  Locale=pt_BR
+Library    FakerLibrary   
 
 ### Shared ###
 Resource    shared/setup_teardown.robot
